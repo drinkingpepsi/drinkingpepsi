@@ -5,6 +5,7 @@
     <h3><ins>Overview:</ins></h3>
     A college student with nothing going on in his life. <br>
     Professional vibe coder and lazy slob. <br>
+    I use Arch btw.
   </p>
 </div>
 
