@@ -1,9 +1,20 @@
-<h1>DRINKINGPEPSI</h1>
+<h1 align="center">DRINKINGPEPSI</h1>
 
-<p> A college student with nothing going on in his life. </p>
+<div>
+  <p>
+    <h3><ins>Overview:</ins></h3>
+    A college student with nothing going on in his life. <br>
+    Professional vibe coder and lazy slob. <br>
+  </p>
+</div>
 
-<p> How it feels to center a div: </p>
-
-
-![forever](https://github.com/user-attachments/assets/78934113-d978-4625-a3e4-e7bd90fe8c98)
-
+<div align="right">
+  <p>
+    <h3>
+      <ins>Things I'm learning:</ins>
+    </h3>
+    From networking and coding to linux operating system.<br>
+    Studying neovim and i3 window manager. <br>
+    Trying to grasp TypeScript and Bash.
+  </p>
+</div>
